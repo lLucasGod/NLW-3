@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    background: linear-gradient();
+}
+
+
+#page-landing{
+    background: linear-gradient(320.54deg, #29b6d1 0%, #00c7c7 100%);
+    text-align: center;
+    min-height: 100vh;
+    display: flex;
+}
+
+#container{
+    margin: auto;
+
+}
+
+.location, h1, .visit p{
+    height: 16vh;
+}
